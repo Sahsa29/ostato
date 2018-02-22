@@ -1,0 +1,183 @@
+ @media only screen and (max-width : 480px) {  
+    nav {  
+        margin: 0 auto;  
+    } 
+    nav{
+        height: 200px;
+    }
+    nav ul {  
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    li a{
+        margin-right: 130px;
+    }
+    li:hover{
+        border:none;
+    }
+    .passion h1{
+        font-size: 45px;
+        text-align: center;
+
+    }
+    .passion button{
+        margin-bottom: 40px;
+        text-align: center;
+    }
+    .passion1{
+        display: none;
+    }
+    .ubd1{
+        display: flex;
+        align-items: center
+    }
+    .camera img{
+        display: none;
+    }
+    .offis{
+       margin-left: 20px;
+        padding-bottom: 80px;
+    }
+    .blok1 p{
+        text-align: center;
+    }
+    .novast2{
+      width: 30%;     
+    }
+    .novast3{
+      width: 30%;     
+    }
+    .novast4{
+      width: 30%;     
+    }
+    .novast5{
+      width: 30%;     
+    }
+    .zagolovok{
+        text-align: center;
+    }
+     .Portfolio1{
+        text-align: center;
+     }
+    .Portfolio1 img{
+        width: 300px;
+        height: 300px;
+    }
+    .team{
+        height: 1500px;
+    }
+    .team1{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .our p{
+        text-align: center;
+    }
+    .our1{
+        height: 5%;
+    }
+    .our2{
+        height: 5%;
+    }
+    .our3{
+        height: 5%;
+    }
+    .our4{
+        height: 5%;
+    }
+    .high{
+        display: none;
+    }
+    .ikonka{
+        display: none;
+    }
+    .works{
+        margin: 0 auto;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .wor{
+        display: none;
+    }
+    .work1Step img{
+    margin: 0 auto;
+    }
+    .work2Step img{
+        display: none;
+    }
+    .wor1{
+        margin: 0 auto;
+        left: 0px;
+        top: 0px;
+        width: 340px;
+    }
+    .work3Step img{
+        margin: 0 auto;
+    }
+    .wor2{
+        display: none;
+    }
+    .work4Step{
+        display: none;
+    }
+    .pricing p{
+        text-align: center;
+    }
+    .priking{
+        margin-top: 40px;
+    }
+    .testimon1 img{
+        width: 150px;
+        height: 130px; 
+    }
+    .testimon2 p{
+        font-size: 9px;
+        width: 250px;
+        margin-top: 25px;
+        margin-right: 45px;
+    }
+    .whySelectUs p{
+        text-align: center;
+    }
+    .start {
+        display: none;
+    }
+    .get3 textarea{
+        width: 200px;
+        height: 70px;
+    }
+    .lex1{
+        box-shadow:none;
+    }
+    .lex2{
+        padding-left: 10px;
+        text-align: center;
+        box-shadow:none;
+    }
+    .lex2 h3{
+       font-size: 10px; 
+    }
+    .lex3{
+        padding-left: 10px;
+        text-align: center;
+        box-shadow:none;
+    }
+    .lex3 h3{
+       font-size: 10px; 
+    }
+    .lex4 h3{
+        font-size: 10px;
+    }
+    .lex4{
+         box-shadow:none;
+    }
+
+
+
+
+
+
+
+
+    }
